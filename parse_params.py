@@ -16,10 +16,11 @@ def getP():
   parser.add_argument("--datefrom", help="From dd/mm/yyyy", default=defDateFrom)
   parser.add_argument("--dateto", help="To dd/mm/yyyy", default=defDateTo)
   parser.add_argument("--file", help="Excel file name", default="export.xlsx")
-  parser.add_argument("--typeflight", help="Possible values:  round, oneway", default="round")
-  parser.add_argument("--daysindestinationfrom", help="TODO", default=1)
-  parser.add_argument("--daysindestinationto", help="TODO", default=2)
-  parser.add_argument("--limit", help="TODO", default=300)
+  parser.add_argument("--typeflight", help="Possible values: oneway, return, round", default="oneway")
+  parser.add_argument("--daysindestinationfrom", help="TODO")
+  parser.add_argument("--daysindestinationto", help="TODO")
+  parser.add_argument("--limit", help="TODO", default="300")
+  parser.add_argument("--currency", help="TODO", default="CZK")
 
   args = parser.parse_args()
   print("Fly From:    {0}".format(args.flyfrom))
@@ -29,3 +30,17 @@ def getP():
   print("File:        {0}".format(args.file))
   logging.debug('getP:return value {0}'.format(args))
   return args
+
+def createUrl(args):
+  baseUrl = 'https://api.skypicker.com/flights?'
+  fullUrl = baseUrl
+  fullUrl += "flyFrom={}".format(args.flyfrom)
+  fullUrl += "&to={}".format(args.flyto)
+  fullUrl += "&dateFrom={}".format(args.datefrom)
+  fullUrl += "&dateTo={}".format(args.dateto)
+  fullUrl += "&curr={}".format(args.currency)
+  fullUrl += "&limit={}".format(args.limit)
+  fullUrl += "&typeFlight={}".format(args.typeflight)
+  fullUrl += "&partner=picky&partner_market=us"
+  
+  return fullUrl

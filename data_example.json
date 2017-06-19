@@ -1,0 +1,2711 @@
+{
+  "search_params": {
+    "to_type": "airport",
+    "flyFrom_type": "country",
+    "seats": {
+      "infants": 0,
+      "passengers": 1,
+      "adults": 1,
+      "children": 0
+    }
+  },
+  "_results": 30,
+  "connections": [],
+  "currency": "CZK",
+  "cheaper_better_flights": [],
+  "currency_rate": 0.03802,
+  "all_stopover_airports": [
+    "CPH",
+    "HAM",
+    "SXF",
+    "CGN",
+    "LUX",
+    "MXP",
+    "BFS",
+    "TSF",
+    "GDN",
+    "BGY",
+    "NRN",
+    "TSR",
+    "CRL",
+    "EIN"
+  ],
+  "data": [
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "LTN",
+      "conversion": {
+        "CZK": 616,
+        "EUR": 23
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=LTN&departure=02-08-2017&flightsId=326900816&price=23&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzmCHRC5em+iLx1z6POUbI9x6pN3VwmYpuEQUsGDLS9QBRNwsUTkYhIs1sHZe3Po/z0L2N9Xg9QWnA9tZSrI7nzh3dQbDkedj3KbTJ3+1k3PyIKa0AHVc+nnJZ5b32Cjb/qvz3sUMdDHNFwLCAZnrtSA7p7TWlhOCgYoHddS5neOSmp4muo0RJWXBJYMhqgWKq+sPLYFMVYrL19vSF/tALbALOGoRGw16DNRex0NQ51PqQ5YaTu6e9FjrD57ja/AAQmu3tD7pG87ojOhgrjydEpbKusGWVqzZCGfv3I3EKEQWy69ASaj5gF6Q1dtRoqz7azNFpIYauo2IRXn9Y4XviNJUD+r6uAUzhdeArECpFvULTAZ4vsOULXTq09DjRahgd",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "W6"
+      ],
+      "id": "326900816",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 32,
+        "hand_length": 42,
+        "hold_weight": 23,
+        "hand_height": 25,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501717200,
+      "p3": 1,
+      "price": 616,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 27,
+        "2": 54
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1501709400,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501716600,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzmCHRC5em+iLx1z6POUbI9x6pN3VwmYpuEQUsGDLS9QBRNwsUTkYhIs1sHZe3Po/z0L2N9Xg9QWnA9tZSrI7nzh3dQbDkedj3KbTJ3+1k3PyIKa0AHVc+nnJZ5b32Cjb/qvz3sUMdDHNFwLCAZnrtSA7p7TWlhOCgYoHddS5neOSmp4muo0RJWXBJYMhqgWKq+sPLYFMVYrL19vSF/tALbALOGoRGw16DNRex0NQ51PqQ5YaTu6e9FjrD57ja/AAQmu3tD7pG87ojOhgrjydEpbKusGWVqzZCGfv3I3EKEQWy69ASaj5gF6Q1dtRoqz7azNFpIYauo2IRXn9Y4XviNJUD+r6uAUzhdeArECpFvULTAZ4vsOULXTq09DjRahgd",
+      "cityFrom": "Brno",
+      "aTime": 1501720800,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 2801,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "LTN",
+          "mapIdto": "london",
+          "id": "326900816",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501709400,
+          "aTimeUTC": 1501717200,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1501716600,
+          "found_on": null,
+          "airline": "W6",
+          "cityFrom": "Brno",
+          "aTime": 1501720800
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 748,
+        "EUR": 28
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=07-09-2017&flightsId=313525033&price=28&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm4lAiyeOgyZkWg+lY0UCF0nPzZv05jODsnn3gr9P+iRv3Qj7dB1mTMJg03GxcrR2GMvoVWnEYiSG2HgnIUyJ0cqWX1VKlUjV+rr2IDkrM+gSjpOosawdIs78OELFBShyBefcrpgtmMLW+6cQB7dkMyha+7tyfr1pT5xsdDI8YjLAR6Ip89K6xPzNeyoK+yFy8hxrMZzdYy9l0VRQTd/XvUZDlWSABINaCJ7DiXrQUMIkkGoxvjA10yv1/Mq5WnDfrKtyewtH4FAbgaCpTn3VwCn1wfbGSt6m+uVqjNvEgNhVOoJvO1tXcNgMZ43W3JarudyFB+R816ZvhWWFQF8UY5+wds8Md9Fhlinn+NIppmO1",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313525033",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504766400,
+      "p3": 1,
+      "price": 748,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1504759200,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504766400,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm4lAiyeOgyZkWg+lY0UCF0nPzZv05jODsnn3gr9P+iRv3Qj7dB1mTMJg03GxcrR2GMvoVWnEYiSG2HgnIUyJ0cqWX1VKlUjV+rr2IDkrM+gSjpOosawdIs78OELFBShyBefcrpgtmMLW+6cQB7dkMyha+7tyfr1pT5xsdDI8YjLAR6Ip89K6xPzNeyoK+yFy8hxrMZzdYy9l0VRQTd/XvUZDlWSABINaCJ7DiXrQUMIkkGoxvjA10yv1/Mq5WnDfrKtyewtH4FAbgaCpTn3VwCn1wfbGSt6m+uVqjNvEgNhVOoJvO1tXcNgMZ43W3JarudyFB+R816ZvhWWFQF8UY5+wds8Md9Fhlinn+NIppmO1",
+      "cityFrom": "Prague",
+      "aTime": 1504770000,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313525033",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504759200,
+          "aTimeUTC": 1504766400,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1504766400,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1504770000
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 748,
+        "EUR": 28
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=03-08-2017&flightsId=313405025&price=28&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm+hg43cjoxBs4Y8RMAsU6hJHvuAdofGAKFelxv6V38PnG1PA4rVDtTX9h+QGrmJIBw59ObBCYUOJpfJ17EnS9kGxTfQQ9A9JdvnfSJcpEdXwL/RKz6oh/1bSVTWa2vGK/MQQAIAHxXCEo6jMD/VO5vXZDuv57D4vcufEwrEBckjfz7VSnzc1aRf0TWQbKnqeYJ+l2EsJS9lYTB0Wlztg0/1TmGa9tACzYAL61HlEyhFP4ssEDFRlqnIQEPyHsSs3QR3Z+ypQFps9JVNhLjOimOtp/JQ81JI1PALof4UrWhZMwyq8r3aWt8+WGeqxvFkFX8QG5RFv99DLieioJ7sNO3LKDNJZBsLC5aFDI6f31F/l",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313405025",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501742400,
+      "p3": 1,
+      "price": 748,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1501735200,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501742400,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm+hg43cjoxBs4Y8RMAsU6hJHvuAdofGAKFelxv6V38PnG1PA4rVDtTX9h+QGrmJIBw59ObBCYUOJpfJ17EnS9kGxTfQQ9A9JdvnfSJcpEdXwL/RKz6oh/1bSVTWa2vGK/MQQAIAHxXCEo6jMD/VO5vXZDuv57D4vcufEwrEBckjfz7VSnzc1aRf0TWQbKnqeYJ+l2EsJS9lYTB0Wlztg0/1TmGa9tACzYAL61HlEyhFP4ssEDFRlqnIQEPyHsSs3QR3Z+ypQFps9JVNhLjOimOtp/JQ81JI1PALof4UrWhZMwyq8r3aWt8+WGeqxvFkFX8QG5RFv99DLieioJ7sNO3LKDNJZBsLC5aFDI6f31F/l",
+      "cityFrom": "Prague",
+      "aTime": 1501746000,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313405025",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501735200,
+          "aTimeUTC": 1501742400,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1501742400,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1501746000
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 748,
+        "EUR": 28
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=02-08-2017&flightsId=313405023&price=28&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm0xhL+DTHYmDvzRgjnNEMt3sJMnm/SdoNAzD7ezjVOd1xLYpEgk7Zo3njfgcswrM3y5hGG0Ux0DYm7W1aYWQp5ZOuss7r0OF3/OX0kzA67G2QGUOVufwsX4CKPEzZ4kbYEwdZWrQy480+s5aZrs488hUutsdSJEI88fJprsIqvdN66YlDxiA2sJmT5s/WDTpT47tIFgumHtb97u3fbDhCLYcWWCc1yJ9eQtIxQ8EvFh+EUOIav46F8Blu5xN6t4d1yeWWOxlb3gBjmLST8017QLrCoCYs5oruL9tRyrno+ZdE74kJl4lRgI73Ao8Cc7y0Y5mA/TKgjuohNXs8EmMH4s/C7At99xMWu7o75WtRXr2",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313405023",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501656000,
+      "p3": 1,
+      "price": 748,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1501648800,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501656000,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm0xhL+DTHYmDvzRgjnNEMt3sJMnm/SdoNAzD7ezjVOd1xLYpEgk7Zo3njfgcswrM3y5hGG0Ux0DYm7W1aYWQp5ZOuss7r0OF3/OX0kzA67G2QGUOVufwsX4CKPEzZ4kbYEwdZWrQy480+s5aZrs488hUutsdSJEI88fJprsIqvdN66YlDxiA2sJmT5s/WDTpT47tIFgumHtb97u3fbDhCLYcWWCc1yJ9eQtIxQ8EvFh+EUOIav46F8Blu5xN6t4d1yeWWOxlb3gBjmLST8017QLrCoCYs5oruL9tRyrno+ZdE74kJl4lRgI73Ao8Cc7y0Y5mA/TKgjuohNXs8EmMH4s/C7At99xMWu7o75WtRXr2",
+      "cityFrom": "Prague",
+      "aTime": 1501659600,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313405023",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501648800,
+          "aTimeUTC": 1501656000,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1501656000,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1501659600
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 748,
+        "EUR": 28
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=01-08-2017&flightsId=313405022&price=28&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm70uB0Dh51to9S9tFSK5PgR+GH+kz47Z6i+szXKkqCLULkyVLZj5qupHjtmtl4N5U+r7fmlxI5zRrz+e0JnWkLk0PCZhnlV/dunCN/TvSO7vPLvZKTrMp39O593AK7gjJpi0Ddjj9yChREoFiExT3fMPvFkzR2eGnYaz6mV2px1sQohWy2JLqDFcUNNYpwuY5j8qKL6TnbpfYrEK6e6Q658it0ZreoWD6kwKwGP3Q6ku1l23rF+t5jFIQ0+HOF2eIDcVrSZBaGpn2vtI2/SdY1PiyVdrgPpM5nlQrKbo6ZqvxbS5eAh9W2c7vYE3qXjCAgUlElNKEFqrmhgkK7MWAZBxY+ww8C57+5tkVqCQH8J1",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313405022",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501569600,
+      "p3": 1,
+      "price": 748,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1501562400,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501569600,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm70uB0Dh51to9S9tFSK5PgR+GH+kz47Z6i+szXKkqCLULkyVLZj5qupHjtmtl4N5U+r7fmlxI5zRrz+e0JnWkLk0PCZhnlV/dunCN/TvSO7vPLvZKTrMp39O593AK7gjJpi0Ddjj9yChREoFiExT3fMPvFkzR2eGnYaz6mV2px1sQohWy2JLqDFcUNNYpwuY5j8qKL6TnbpfYrEK6e6Q658it0ZreoWD6kwKwGP3Q6ku1l23rF+t5jFIQ0+HOF2eIDcVrSZBaGpn2vtI2/SdY1PiyVdrgPpM5nlQrKbo6ZqvxbS5eAh9W2c7vYE3qXjCAgUlElNKEFqrmhgkK7MWAZBxY+ww8C57+5tkVqCQH8J1",
+      "cityFrom": "Prague",
+      "aTime": 1501573200,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313405022",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501562400,
+          "aTimeUTC": 1501569600,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1501569600,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1501573200
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "LTN",
+      "conversion": {
+        "CZK": 763,
+        "EUR": 29
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=LTN&departure=02-08-2017&flightsId=313616871&price=29&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzzriBQhvaJrFjB/uTrP51500z662mtSIUdLz/qHY4v+q5rJmC5UET7vku6gEpPQb5QvoXvTxcTo1jh67aZWzn+jmQGLCFihM+YpbdTdiAalgazwUXXAaGt65Y430jAoH3XaDbep/LCdce50DPcD3o1JvBR6T1wsNTp4YoWLMa3uqh3ced29uA3MtvukyUFCN1NtiBmiNj0i3y4mw6pBrDYiGGgE191br8TxMu5GUGjtYbnQuhinFkL+c6FHchs9rIpsq02P1dGSZQ0UTbZxdoTJeVkbsoSmqko9GxDuLxFr8wNOObSTKlxi5ZABjQolGGoKab/RSzTVkBOAe8iweZhRe0jDm0oN6TndunUbwSutc7h3uZXvniHRAvdEKl8pqX",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "W6"
+      ],
+      "id": "313616871",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 32,
+        "hand_length": 42,
+        "hold_weight": 23,
+        "hand_height": 25,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501702500,
+      "p3": 1,
+      "price": 763,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 27,
+        "2": 54
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1501695300,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501702500,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzzriBQhvaJrFjB/uTrP51500z662mtSIUdLz/qHY4v+q5rJmC5UET7vku6gEpPQb5QvoXvTxcTo1jh67aZWzn+jmQGLCFihM+YpbdTdiAalgazwUXXAaGt65Y430jAoH3XaDbep/LCdce50DPcD3o1JvBR6T1wsNTp4YoWLMa3uqh3ced29uA3MtvukyUFCN1NtiBmiNj0i3y4mw6pBrDYiGGgE191br8TxMu5GUGjtYbnQuhinFkL+c6FHchs9rIpsq02P1dGSZQ0UTbZxdoTJeVkbsoSmqko9GxDuLxFr8wNOObSTKlxi5ZABjQolGGoKab/RSzTVkBOAe8iweZhRe0jDm0oN6TndunUbwSutc7h3uZXvniHRAvdEKl8pqX",
+      "cityFrom": "Prague",
+      "aTime": 1501706100,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 2601,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "LTN",
+          "mapIdto": "london",
+          "id": "313616871",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501695300,
+          "aTimeUTC": 1501702500,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1501702500,
+          "found_on": null,
+          "airline": "W6",
+          "cityFrom": "Prague",
+          "aTime": 1501706100
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 774,
+        "EUR": 29
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=18-08-2017&flightsId=313461321&price=29&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm0HP+2dtUvlwjDBaXHY4hfxliRFmL3GZzvBzMZrj045pTZz76e+zvy/kVSP2dmScFdzVe20Gb8/tjgUYhmLfS1YTYyK261fbn8DVyQU0+PsH8ZeFs4x3Y4vhfGA/ByeyDjlXbOqxUnVfGZ0SAN73dLcbTZkPJ8xSO1QLmAdwzA0Qazuh1HcNplX1mYajrX6wtxhJcqlXdZ/EbETfV4YDfMPoslgfboZP+zRvuIvikkqMxDAepBL4M6eQdptSe/MqeK8WZPWE8Vzj+yYTFqXYSKEfR6N2jEIxv3XkdS/hq/z4QUZVbcw1pR3WDV6zWuMEwhYiCn7pCRJd7OJF0bB9AcEEAJzb/PehFjm+kNY0gTu+",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313461321",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1503038400,
+      "p3": 1,
+      "price": 774,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1503031200,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1503038400,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2YpKqW5ox2TGn8WVyj8P3IFaQXJocdlp8fXjfibtNkm0HP+2dtUvlwjDBaXHY4hfxliRFmL3GZzvBzMZrj045pTZz76e+zvy/kVSP2dmScFdzVe20Gb8/tjgUYhmLfS1YTYyK261fbn8DVyQU0+PsH8ZeFs4x3Y4vhfGA/ByeyDjlXbOqxUnVfGZ0SAN73dLcbTZkPJ8xSO1QLmAdwzA0Qazuh1HcNplX1mYajrX6wtxhJcqlXdZ/EbETfV4YDfMPoslgfboZP+zRvuIvikkqMxDAepBL4M6eQdptSe/MqeK8WZPWE8Vzj+yYTFqXYSKEfR6N2jEIxv3XkdS/hq/z4QUZVbcw1pR3WDV6zWuMEwhYiCn7pCRJd7OJF0bB9AcEEAJzb/PehFjm+kNY0gTu+",
+      "cityFrom": "Prague",
+      "aTime": 1503042000,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313461321",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1503031200,
+          "aTimeUTC": 1503038400,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1503038400,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1503042000
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 836,
+        "EUR": 31
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=STN&departure=06-09-2017&flightsId=313516308&price=31&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2dEMFN5tRpQLxJAEzQ9VHfabe1ZW702geHZVM1TH3I1WXelJnfDjCtqha7JeMa2B7SMQe5Bsof7UxiYIpEAP2uY3jKFDIhIgynCpfc0f8YlLk3ZjA9YlROBcosbhbgnpfKGBW8ZIlWpZiEwYXinKE6+HqyTJ4jx+pjvgS6kwoLWxUI4XYbJoFpGFHyI4/2du9nETo532KtqkT3wBokYTu8wXwRHV8Fho6puhhTJP3RKH/2EmffFGsMj1CH+oZqPsAlOtEs69oEHBIPfk5UL41Ym908NyZMYv1hgmJNqmzHk/ko7nFCyt/vQp+63ZOHIVqCYuSg+1NrdP3Jf9Y7NxVVe/R3MkVb1FbWkg7LYkPcQjrxeqKfnehTjSjl/ZpZFtJTJMyjQKRpMbHCfQbfpML0",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313516308",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504719300,
+      "p3": 1,
+      "price": 836,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1504711500,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504718700,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew2dEMFN5tRpQLxJAEzQ9VHfabe1ZW702geHZVM1TH3I1WXelJnfDjCtqha7JeMa2B7SMQe5Bsof7UxiYIpEAP2uY3jKFDIhIgynCpfc0f8YlLk3ZjA9YlROBcosbhbgnpfKGBW8ZIlWpZiEwYXinKE6+HqyTJ4jx+pjvgS6kwoLWxUI4XYbJoFpGFHyI4/2du9nETo532KtqkT3wBokYTu8wXwRHV8Fho6puhhTJP3RKH/2EmffFGsMj1CH+oZqPsAlOtEs69oEHBIPfk5UL41Ym908NyZMYv1hgmJNqmzHk/ko7nFCyt/vQp+63ZOHIVqCYuSg+1NrdP3Jf9Y7NxVVe/R3MkVb1FbWkg7LYkPcQjrxeqKfnehTjSjl/ZpZFtJTJMyjQKRpMbHCfQbfpML0",
+      "cityFrom": "Brno",
+      "aTime": 1504722900,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 8404,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313516308",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504711500,
+          "aTimeUTC": 1504719300,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1504718700,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Brno",
+          "aTime": 1504722900
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "pardubice",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 867,
+        "EUR": 32
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PED&to=STN&departure=09-09-2017&flightsId=322318273&price=32&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1ZjDCG3WDhOjx7N/2PjNAsAoBeZI8g/AUueFW4t5zjQXvt95kGPzRP7oqGu3rmfp22DSGpdNemC0Yl+ydB998D88vDgSKhf/c9oD88iia4TrXdPulXgUD3ypKIf0T7MrI73Qj/N/jl6pQ4ecZA0qjE1NM6ozTmWjrXnmRiYLF9lOAWqeaBEr0sfcTdFxCv/54c8rsIy45lm1C27JfJxZq7X1qV+jNeqRsTM7hMOpMX+Oac3MWxHj5HUF+BfB+YwYw30hTVJEzTYyaPwlIjaZtlItVNUA+TgV4LKyLd3XqCGp97tndXxbBF31f6AwYiU5KVJvCB00Ivhj2FTog1vR0BAsf6OWwb3BOEdIYDitpfS7er7grP49r4s7tBJJfsHtdOnfBsPB0cWMWLdF6OZX7N",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "322318273",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504990800,
+      "p3": 1,
+      "price": 867,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PED",
+      "dTimeUTC": 1504983600,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504990800,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1ZjDCG3WDhOjx7N/2PjNAsAoBeZI8g/AUueFW4t5zjQXvt95kGPzRP7oqGu3rmfp22DSGpdNemC0Yl+ydB998D88vDgSKhf/c9oD88iia4TrXdPulXgUD3ypKIf0T7MrI73Qj/N/jl6pQ4ecZA0qjE1NM6ozTmWjrXnmRiYLF9lOAWqeaBEr0sfcTdFxCv/54c8rsIy45lm1C27JfJxZq7X1qV+jNeqRsTM7hMOpMX+Oac3MWxHj5HUF+BfB+YwYw30hTVJEzTYyaPwlIjaZtlItVNUA+TgV4LKyLd3XqCGp97tndXxbBF31f6AwYiU5KVJvCB00Ivhj2FTog1vR0BAsf6OWwb3BOEdIYDitpfS7er7grP49r4s7tBJJfsHtdOnfBsPB0cWMWLdF6OZX7N",
+      "cityFrom": "Pardubice",
+      "aTime": 1504994400,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "pardubice",
+          "flight_no": 3637,
+          "original_return": 0,
+          "lngFrom": 15.7766,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "322318273",
+          "source": null,
+          "latFrom": 50.0407,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504983600,
+          "aTimeUTC": 1504990800,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PED",
+          "latTo": 51.5135984673,
+          "dTime": 1504990800,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Pardubice",
+          "aTime": 1504994400
+        }
+      ],
+      "distance": 1128.36
+    },
+    {
+      "mapIdfrom": "pardubice",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 867,
+        "EUR": 32
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PED&to=STN&departure=07-09-2017&flightsId=322318272&price=32&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1ZjDCG3WDhOjx7N/2PjNAsAoBeZI8g/AUueFW4t5zjQRdyeGqZOvshfJ2LEB6Kks9KEfjP4HFEkbx2Q5Lqdvg+QO3cdBovQv/BFgwXe7F2F8VbybFT0GOVD/FkNeo6eUe9WaGGK1Ikd2/aDnvkjd2YrgFOTf6CSRzyFs0VD9Z9FtXX8vY4HaY8+DkEtyOt0IOO3ZzhsgHZNilJEuB4yTWuJ+zrl/+Ui2oiafjR2/PMzjXvbGOXrwI+PFujbbnyd0RYq2ZeU7YNlhowKYpDYDS8qRwTqSTPnjR+61/5OcZFL9973BdOdXLcv7S7Q7UU69SmI6kxW4SqzO+mN8i2RaoeTEvO2KoG6nt+fS6HwRZHR0cuRY11P4LZpmL5hXMzshhlup/Jh3QZ0uN/gx8GxqXQ",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "322318272",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504787100,
+      "p3": 1,
+      "price": 867,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PED",
+      "dTimeUTC": 1504779900,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504787100,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1ZjDCG3WDhOjx7N/2PjNAsAoBeZI8g/AUueFW4t5zjQRdyeGqZOvshfJ2LEB6Kks9KEfjP4HFEkbx2Q5Lqdvg+QO3cdBovQv/BFgwXe7F2F8VbybFT0GOVD/FkNeo6eUe9WaGGK1Ikd2/aDnvkjd2YrgFOTf6CSRzyFs0VD9Z9FtXX8vY4HaY8+DkEtyOt0IOO3ZzhsgHZNilJEuB4yTWuJ+zrl/+Ui2oiafjR2/PMzjXvbGOXrwI+PFujbbnyd0RYq2ZeU7YNlhowKYpDYDS8qRwTqSTPnjR+61/5OcZFL9973BdOdXLcv7S7Q7UU69SmI6kxW4SqzO+mN8i2RaoeTEvO2KoG6nt+fS6HwRZHR0cuRY11P4LZpmL5hXMzshhlup/Jh3QZ0uN/gx8GxqXQ",
+      "cityFrom": "Pardubice",
+      "aTime": 1504790700,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "pardubice",
+          "flight_no": 3637,
+          "original_return": 0,
+          "lngFrom": 15.7766,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "322318272",
+          "source": null,
+          "latFrom": 50.0407,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504779900,
+          "aTimeUTC": 1504787100,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PED",
+          "latTo": 51.5135984673,
+          "dTime": 1504787100,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Pardubice",
+          "aTime": 1504790700
+        }
+      ],
+      "distance": 1128.36
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 8100,
+        "return": 0,
+        "departure": 8100
+      },
+      "flyTo": "LTN",
+      "conversion": {
+        "CZK": 851,
+        "EUR": 32
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=LTN&departure=08-09-2017&flightsId=315147687&price=32&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzy23/HA5I1FY+OWrSbYzVf7EhZtVOBKSza03kQ0Xs2nWlPzareoUzmSuZnH5LCFsowkgFegfX97LymK+AF1/ZDS9czRwXH0Rv0xSdvs10THz04S+YQj0HTZrhIWERgb4EsOBr++Ge7CWkZtQmqQ/uLHZ8zY2Xdb1jeZmwVFlleFpoHknlo2PRHmJBXeHhE0wemxoUMNIQlf7pAY1inJDEqfvBldlQ//0ED+7nSpigOYFFAvvIF3ngt1b3YSGDBLENvO1bXjPqTsHJb5c8gd2NawKBOA5FN8c2Yaw3ScKImDR8Emi5xC7KIvusdmzW7dnJGmejj3geyHZFdJOVAUz0yLwsNshlliDcj7ihyeS7Cei/TVFY4IUhmSgLVoyRN8x+",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "W6"
+      ],
+      "id": "315147687",
+      "pnr_count": 1,
+      "fly_duration": "2h 15m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 32,
+        "hand_length": 42,
+        "hold_weight": 23,
+        "hand_height": 25,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504910400,
+      "p3": 1,
+      "price": 851,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 27,
+        "2": 54
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1504902300,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504909500,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzy23/HA5I1FY+OWrSbYzVf7EhZtVOBKSza03kQ0Xs2nWlPzareoUzmSuZnH5LCFsowkgFegfX97LymK+AF1/ZDS9czRwXH0Rv0xSdvs10THz04S+YQj0HTZrhIWERgb4EsOBr++Ge7CWkZtQmqQ/uLHZ8zY2Xdb1jeZmwVFlleFpoHknlo2PRHmJBXeHhE0wemxoUMNIQlf7pAY1inJDEqfvBldlQ//0ED+7nSpigOYFFAvvIF3ngt1b3YSGDBLENvO1bXjPqTsHJb5c8gd2NawKBOA5FN8c2Yaw3ScKImDR8Emi5xC7KIvusdmzW7dnJGmejj3geyHZFdJOVAUz0yLwsNshlliDcj7ihyeS7Cei/TVFY4IUhmSgLVoyRN8x+",
+      "cityFrom": "Brno",
+      "aTime": 1504914000,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 2801,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "LTN",
+          "mapIdto": "london",
+          "id": "315147687",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504902300,
+          "aTimeUTC": 1504910400,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1504909500,
+          "found_on": null,
+          "airline": "W6",
+          "cityFrom": "Brno",
+          "aTime": 1504914000
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "LTN",
+      "conversion": {
+        "CZK": 851,
+        "EUR": 32
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=LTN&departure=06-09-2017&flightsId=326901888&price=32&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzy23/HA5I1FY+OWrSbYzVf680si7JfISFjIpKrOvKkTwF6RYE4guAXCxFOk6hmbc1yaO8nGzdudMYCfnWVdmXu7h9QohF3mGp2kisWOdsl9fxtVQndGDFkBLuXYH9ofGG6e+aazNmxSRN0I4V03T6HYT5nsb8k8uSS+tIdAoGkQqTSUnOOvpvjvejD2P6GDymFdsfVZdEPjgvpo9S1r4vivxVdyKskSjkWj4/kDxdI8vzI8n/y8LHO5MjrM9vSL/kWcXUyiqD/U6gdVpsdst+AgUhxzW0YH0KSotkXBeokQhP/+uv0kDyOmIiaK3BxDhw7Z1V+ENgpMIAD39Q2svQMITT2SKY5XIX4RjhfLu4P6KZ9GArclVo5XxLEnA9pvbs",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "W6"
+      ],
+      "id": "326901888",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 32,
+        "hand_length": 42,
+        "hold_weight": 23,
+        "hand_height": 25,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504741200,
+      "p3": 1,
+      "price": 851,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 27,
+        "2": 54
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1504733400,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504740600,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzy23/HA5I1FY+OWrSbYzVf680si7JfISFjIpKrOvKkTwF6RYE4guAXCxFOk6hmbc1yaO8nGzdudMYCfnWVdmXu7h9QohF3mGp2kisWOdsl9fxtVQndGDFkBLuXYH9ofGG6e+aazNmxSRN0I4V03T6HYT5nsb8k8uSS+tIdAoGkQqTSUnOOvpvjvejD2P6GDymFdsfVZdEPjgvpo9S1r4vivxVdyKskSjkWj4/kDxdI8vzI8n/y8LHO5MjrM9vSL/kWcXUyiqD/U6gdVpsdst+AgUhxzW0YH0KSotkXBeokQhP/+uv0kDyOmIiaK3BxDhw7Z1V+ENgpMIAD39Q2svQMITT2SKY5XIX4RjhfLu4P6KZ9GArclVo5XxLEnA9pvbs",
+      "cityFrom": "Brno",
+      "aTime": 1504744800,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 2801,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "LTN",
+          "mapIdto": "london",
+          "id": "326901888",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504733400,
+          "aTimeUTC": 1504741200,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1504740600,
+          "found_on": null,
+          "airline": "W6",
+          "cityFrom": "Brno",
+          "aTime": 1504744800
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "pardubice",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 898,
+        "EUR": 34
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PED&to=STN&departure=05-09-2017&flightsId=322318271&price=34&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew04vB1lMNSLPHAwJ8dASRDlBb1+jGIkf6h4N5JgmP0/G0qWlihBpRMlDHNJ8YtIHHxZnmuaNMHeTnYO9AXkj55f+9mU6+6NJGYngqRc9pbGbVdOoak1aFHYUx5w8syxzmUX5MkOsc73s/sn6hPFl7pTk6p5fELcBsoGkBkPzVLcK3LlPEjxBMR6tMCZCjCfufEteTi7uKgQobwQkc9me46w6InVRbbmL7blNQDuRUzgGkNW0CRQHw1oIshgIUew5DiB+GG+T9UfENvsLW4yKpq9p/sEPLtgDxCa3OWNrUdE4CTnkSlqVMrVfSc76yLS4/I6vVpEVpAWlX7nQ8+WZjBb7hz9Kq/8Z2eV7lCfB6wKu7N7UK3ovapS8Pb8XyjWrNFaz1/ctUU7J3mt6G+5knx+",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "322318271",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504638000,
+      "p3": 1,
+      "price": 898,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PED",
+      "dTimeUTC": 1504630800,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504638000,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew04vB1lMNSLPHAwJ8dASRDlBb1+jGIkf6h4N5JgmP0/G0qWlihBpRMlDHNJ8YtIHHxZnmuaNMHeTnYO9AXkj55f+9mU6+6NJGYngqRc9pbGbVdOoak1aFHYUx5w8syxzmUX5MkOsc73s/sn6hPFl7pTk6p5fELcBsoGkBkPzVLcK3LlPEjxBMR6tMCZCjCfufEteTi7uKgQobwQkc9me46w6InVRbbmL7blNQDuRUzgGkNW0CRQHw1oIshgIUew5DiB+GG+T9UfENvsLW4yKpq9p/sEPLtgDxCa3OWNrUdE4CTnkSlqVMrVfSc76yLS4/I6vVpEVpAWlX7nQ8+WZjBb7hz9Kq/8Z2eV7lCfB6wKu7N7UK3ovapS8Pb8XyjWrNFaz1/ctUU7J3mt6G+5knx+",
+      "cityFrom": "Pardubice",
+      "aTime": 1504641600,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "pardubice",
+          "flight_no": 3637,
+          "original_return": 0,
+          "lngFrom": 15.7766,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "322318271",
+          "source": null,
+          "latFrom": 50.0407,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504630800,
+          "aTimeUTC": 1504638000,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PED",
+          "latTo": 51.5135984673,
+          "dTime": 1504638000,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Pardubice",
+          "aTime": 1504641600
+        }
+      ],
+      "distance": 1128.36
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "LTN",
+      "conversion": {
+        "CZK": 910,
+        "EUR": 34
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=LTN&departure=09-08-2017&flightsId=326868361&price=34&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzRn7Izou9SzaDdAMjENAplSTQmiuHk2HVxDwJEXJfkNy1K3cU3qNEW4YxlVq82jQdD2Enz6yjyvfz0pPXXahk65P6t58EH/lRvTtcyOuAq2aTVtHHiBfbnB110ge764CjFolxz6qsfeda+m9F0/Gwljac1SyCnPKxxHU3vgU29QXhp46nncNZ7ZekKI+F90p2SGxvUzimb6SAIeqcxnqtknveZDU04UYj4B3FITOEEcN+a8PUdrL2k6+Bc1JJL3z0XFZEw9HH+k/28/MANSMFjRjbQAybHup1A8oq9pJwVQx0GloH6X5MZZzAUjY/iHeh6LXDuwD9lUI/eVB4/KkOKxf1iFDyS9y33qZiM8xi+BKDz8+T8Uk66kBUfoytyn7f",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "W6"
+      ],
+      "id": "326868361",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 32,
+        "hand_length": 42,
+        "hold_weight": 23,
+        "hand_height": 25,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1502322000,
+      "p3": 1,
+      "price": 910,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 27,
+        "2": 54
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1502314200,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1502321400,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzRn7Izou9SzaDdAMjENAplSTQmiuHk2HVxDwJEXJfkNy1K3cU3qNEW4YxlVq82jQdD2Enz6yjyvfz0pPXXahk65P6t58EH/lRvTtcyOuAq2aTVtHHiBfbnB110ge764CjFolxz6qsfeda+m9F0/Gwljac1SyCnPKxxHU3vgU29QXhp46nncNZ7ZekKI+F90p2SGxvUzimb6SAIeqcxnqtknveZDU04UYj4B3FITOEEcN+a8PUdrL2k6+Bc1JJL3z0XFZEw9HH+k/28/MANSMFjRjbQAybHup1A8oq9pJwVQx0GloH6X5MZZzAUjY/iHeh6LXDuwD9lUI/eVB4/KkOKxf1iFDyS9y33qZiM8xi+BKDz8+T8Uk66kBUfoytyn7f",
+      "cityFrom": "Brno",
+      "aTime": 1502325600,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 2801,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "LTN",
+          "mapIdto": "london",
+          "id": "326868361",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1502314200,
+          "aTimeUTC": 1502322000,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1502321400,
+          "found_on": null,
+          "airline": "W6",
+          "cityFrom": "Brno",
+          "aTime": 1502325600
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "ostrava",
+      "refr": false,
+      "duration": {
+        "total": 8100,
+        "return": 0,
+        "departure": 8100
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 898,
+        "EUR": 34
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=OSR&to=STN&departure=09-09-2017&flightsId=313524726&price=34&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew04vB1lMNSLPHAwJ8dASRDlBb1+jGIkf6h4N5JgmP0/G1CDZRUm9anTa+YqZXXFT5S8bFKobK+piqMSn1P5NIWqPFJ69ktgCT2hsi4IzYYXfq1RHCy0Se1m/YZVQCxXnsDPrghr42+gCNdqyhWVZedHK5+rVUZFRmk5v9GlA0FAq1Jf9pmwzfmZpPNJFfdzmdaEYT1vDjTyLK966s7cFHgeXw+pmAeZVreKHsEBPyd+Sp4unEthZpxLKzfXUGAtOTw6XCdYEm8pZaiJy6QYgLajpvTmWWtuP1rZRVQEbPI88rNWgym5iC0wCDWKA1O/AMwt2SUTb9Tb3uItbYRQdmoKyM1zZGh6hY3TCjoHH6HlRSGq8AhWxwmK9o9W43GlFcWdjpXDSB47amvPvH8ceoMJ",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313524726",
+      "pnr_count": 1,
+      "fly_duration": "2h 15m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504980600,
+      "p3": 1,
+      "price": 898,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "OSR",
+      "dTimeUTC": 1504972500,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504979700,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew04vB1lMNSLPHAwJ8dASRDlBb1+jGIkf6h4N5JgmP0/G1CDZRUm9anTa+YqZXXFT5S8bFKobK+piqMSn1P5NIWqPFJ69ktgCT2hsi4IzYYXfq1RHCy0Se1m/YZVQCxXnsDPrghr42+gCNdqyhWVZedHK5+rVUZFRmk5v9GlA0FAq1Jf9pmwzfmZpPNJFfdzmdaEYT1vDjTyLK966s7cFHgeXw+pmAeZVreKHsEBPyd+Sp4unEthZpxLKzfXUGAtOTw6XCdYEm8pZaiJy6QYgLajpvTmWWtuP1rZRVQEbPI88rNWgym5iC0wCDWKA1O/AMwt2SUTb9Tb3uItbYRQdmoKyM1zZGh6hY3TCjoHH6HlRSGq8AhWxwmK9o9W43GlFcWdjpXDSB47amvPvH8ceoMJ",
+      "cityFrom": "Ostrava",
+      "aTime": 1504984200,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "ostrava",
+          "flight_no": 2369,
+          "original_return": 0,
+          "lngFrom": 18.282,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313524726",
+          "source": null,
+          "latFrom": 49.8346,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504972500,
+          "aTimeUTC": 1504980600,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "OSR",
+          "latTo": 51.5135984673,
+          "dTime": 1504979700,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Ostrava",
+          "aTime": 1504984200
+        }
+      ],
+      "distance": 1307.74
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "LTN",
+      "conversion": {
+        "CZK": 910,
+        "EUR": 34
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=LTN&departure=03-08-2017&flightsId=323349012&price=34&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzRn7Izou9SzaDdAMjENAplVyZPEorJJatFrmQU8yq8uN1V1Fy7EqLFR7+8s1OWdxPH8oNlBUH59WMMi/ifhjE0RDYQHaw+pBHhjZNS8685mwmsIJRL2B/PB2aemtPHGg4R9yf33AGkwhFkJ8NGcYSiN/2+85M6lh/XbFgFudhVn40mX4yz0ip1FEaonlQcjiKX1ZYJmSt6zoiNvk33CdO1ywDj7elaU5M8Td21CmNjejqRpbQMRlq9bxO5/3GkYKxSiJMEMGmPtXe+tgajbV/sqeQ44XKhd1nafT9qVv84M+S8wr//gPyx9oQrHB5ZiXgOAoqsvoSzCoPCs5B4m/jvig1RCfeGqcsWbbWncNRJojcQmJye3ywNvkCZxGYM7jw",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "W6"
+      ],
+      "id": "323349012",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 32,
+        "hand_length": 42,
+        "hold_weight": 23,
+        "hand_height": 25,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501789200,
+      "p3": 1,
+      "price": 910,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 27,
+        "2": 54
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1501782000,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501789200,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzRn7Izou9SzaDdAMjENAplVyZPEorJJatFrmQU8yq8uN1V1Fy7EqLFR7+8s1OWdxPH8oNlBUH59WMMi/ifhjE0RDYQHaw+pBHhjZNS8685mwmsIJRL2B/PB2aemtPHGg4R9yf33AGkwhFkJ8NGcYSiN/2+85M6lh/XbFgFudhVn40mX4yz0ip1FEaonlQcjiKX1ZYJmSt6zoiNvk33CdO1ywDj7elaU5M8Td21CmNjejqRpbQMRlq9bxO5/3GkYKxSiJMEMGmPtXe+tgajbV/sqeQ44XKhd1nafT9qVv84M+S8wr//gPyx9oQrHB5ZiXgOAoqsvoSzCoPCs5B4m/jvig1RCfeGqcsWbbWncNRJojcQmJye3ywNvkCZxGYM7jw",
+      "cityFrom": "Prague",
+      "aTime": 1501792800,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 2601,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "LTN",
+          "mapIdto": "london",
+          "id": "323349012",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501782000,
+          "aTimeUTC": 1501789200,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1501789200,
+          "found_on": null,
+          "airline": "W6",
+          "cityFrom": "Prague",
+          "aTime": 1501792800
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1023,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=STN&departure=02-08-2017&flightsId=313410149&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BNIIiwtINCNreaSrXNgPG1oR/DPLKM8RNI9giaj88whqCUqQiNjFSLuJsNGRiOjCxsJti5JUnowEEwEEnVxNlhyPbnmjwVvQ8f6g2+ifP4eipGkCimL0oJPrw+/wX+hi7r/8LzX5JSZ0JEBY3PztcBENzazdjcFtTFRKXqCK2W972zt2vKy42n3AP5aaX3ELC8InmG/FtT8SLqixdKeKWnSK9RtkjUr0S4tOPwR2RpKMXd6cC/ZVxVrHTJaBaduEaozBgiIgRaSTpFILKHa0zEVIqEwc4CtsssNiCawLyAuEWOqybl6KhEmqul5uQJgx/guf6Dxu7f/lWSLLG4aFYQHHLC7K2i7AfR5nuJVP3CnX",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313410149",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501695300,
+      "p3": 1,
+      "price": 1023,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1501687500,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501694700,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BNIIiwtINCNreaSrXNgPG1oR/DPLKM8RNI9giaj88whqCUqQiNjFSLuJsNGRiOjCxsJti5JUnowEEwEEnVxNlhyPbnmjwVvQ8f6g2+ifP4eipGkCimL0oJPrw+/wX+hi7r/8LzX5JSZ0JEBY3PztcBENzazdjcFtTFRKXqCK2W972zt2vKy42n3AP5aaX3ELC8InmG/FtT8SLqixdKeKWnSK9RtkjUr0S4tOPwR2RpKMXd6cC/ZVxVrHTJaBaduEaozBgiIgRaSTpFILKHa0zEVIqEwc4CtsssNiCawLyAuEWOqybl6KhEmqul5uQJgx/guf6Dxu7f/lWSLLG4aFYQHHLC7K2i7AfR5nuJVP3CnX",
+      "cityFrom": "Brno",
+      "aTime": 1501698900,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 8404,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313410149",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501687500,
+          "aTimeUTC": 1501695300,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1501694700,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Brno",
+          "aTime": 1501698900
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1023,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=STN&departure=08-09-2017&flightsId=313516313&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BFOQ5eNPRKuPm8wr2LOgmKN3fzCaV7VsxiIa/tym55wb8SpGQ5HwN/H8E2ivA4MwlKJa0H+lGfoUwLveJuj69voguyzOS9QlzsWzUdHjJsfTr7JDxqh54vqZu6V4APIUvi4ONB8OAxMEJjSiqB1oxgspq59XgR8x0/cdvBQPaMPCj206h7ZmTkkHU/5QkUFe7feQ7d9nGrA3NSqEcQqhFG9HxGP8N7UO7hFV+BTd3DqtJ1mpfSRvYhnBCTulny+AM229+5bMe9i7YvBrO3Z20rJBJHdy7HqCnJYKEgvBjdXFpFs9MpQjmVUvKlF9xQ9QFerXcl5DD9zeZgsKCPBlwKBFrPpkSzEbKeexXtFzb5hX",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313516313",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504892100,
+      "p3": 1,
+      "price": 1023,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1504884300,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504891500,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BFOQ5eNPRKuPm8wr2LOgmKN3fzCaV7VsxiIa/tym55wb8SpGQ5HwN/H8E2ivA4MwlKJa0H+lGfoUwLveJuj69voguyzOS9QlzsWzUdHjJsfTr7JDxqh54vqZu6V4APIUvi4ONB8OAxMEJjSiqB1oxgspq59XgR8x0/cdvBQPaMPCj206h7ZmTkkHU/5QkUFe7feQ7d9nGrA3NSqEcQqhFG9HxGP8N7UO7hFV+BTd3DqtJ1mpfSRvYhnBCTulny+AM229+5bMe9i7YvBrO3Z20rJBJHdy7HqCnJYKEgvBjdXFpFs9MpQjmVUvKlF9xQ9QFerXcl5DD9zeZgsKCPBlwKBFrPpkSzEbKeexXtFzb5hX",
+      "cityFrom": "Brno",
+      "aTime": 1504895700,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 8404,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313516313",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504884300,
+          "aTimeUTC": 1504892100,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1504891500,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Brno",
+          "aTime": 1504895700
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1023,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=STN&departure=07-09-2017&flightsId=313516310&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BNoSFiLuYi8gP913j9nk+N44aha1U5fjNNb+Ki/s5Xp2k0X3mxAZmEdAZzEXrv4vdKt+wFBxrZIlb5rIN4k9vLns36pN1jXDTljBWC8w+qvnPl+mlZWLHMe53kCv1m4iVrNZw50XqiKFNbpEd+D23jx1fjHFapReKsDMHT5UUmBWMIj74znhaQ3re2rTH1KaRDERrlaUn79/1r5up3YvQCQKGpkqRJS8tiPwVTndy0TOPX2fGdJqltrVwxDwT2MJC0x4jbbnOLYPqoASLlx/JZxd89dyDslLeXXb0GlNNfCb0tTxsd6HHTfCkbtoMOK033H5CX5p1+rf7oI3t52ZV2IyImm1Cf9SIEiZnMkSE5ri",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313516310",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504805700,
+      "p3": 1,
+      "price": 1023,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1504797900,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504805100,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BNoSFiLuYi8gP913j9nk+N44aha1U5fjNNb+Ki/s5Xp2k0X3mxAZmEdAZzEXrv4vdKt+wFBxrZIlb5rIN4k9vLns36pN1jXDTljBWC8w+qvnPl+mlZWLHMe53kCv1m4iVrNZw50XqiKFNbpEd+D23jx1fjHFapReKsDMHT5UUmBWMIj74znhaQ3re2rTH1KaRDERrlaUn79/1r5up3YvQCQKGpkqRJS8tiPwVTndy0TOPX2fGdJqltrVwxDwT2MJC0x4jbbnOLYPqoASLlx/JZxd89dyDslLeXXb0GlNNfCb0tTxsd6HHTfCkbtoMOK033H5CX5p1+rf7oI3t52ZV2IyImm1Cf9SIEiZnMkSE5ri",
+      "cityFrom": "Brno",
+      "aTime": 1504809300,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 8404,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313516310",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504797900,
+          "aTimeUTC": 1504805700,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1504805100,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Brno",
+          "aTime": 1504809300
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "brno",
+      "refr": false,
+      "duration": {
+        "total": 7800,
+        "return": 0,
+        "departure": 7800
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1023,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=BRQ&to=STN&departure=09-09-2017&flightsId=313516315&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BNth9T9hwMGhmsljiKU0MHOfWfeC20nCWmpKH/hJqOJGpX13ZUdZ9ZxULYC6X67fwXnH5lSqWobv0anl78MS1KZeWgX+uGuXqxDcZkAqxMORLnCHpgbsjYS9Vcbprv+CuTq8Byaer8W7/klg9emO21Kj8D8kgJZedhSAD8G+t8kvetfWDbmTt49VIZEtJtTXmy2OJK0KH0XiPl9lbfYtZXU0yJ2DxVTytkeXAVR7sPcDechC7Pza5F4+7dfpWlnWfSyJ2yUV0ijsS1DsZL/etlXuP7l0H6TsTJlL00snAkqppo/ijsilwJrFkd3tkIAsKPDiBP4G1gLnMu2XQ+/G/3QJNRRCyCf0O9BRxnXvIunX",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313516315",
+      "pnr_count": 1,
+      "fly_duration": "2h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504978500,
+      "p3": 1,
+      "price": 1023,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "BRQ",
+      "dTimeUTC": 1504970700,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504977900,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew0ceDL4j18xMc60/2+GaCubrZFAH3v+yLTzpaJOot7/BNth9T9hwMGhmsljiKU0MHOfWfeC20nCWmpKH/hJqOJGpX13ZUdZ9ZxULYC6X67fwXnH5lSqWobv0anl78MS1KZeWgX+uGuXqxDcZkAqxMORLnCHpgbsjYS9Vcbprv+CuTq8Byaer8W7/klg9emO21Kj8D8kgJZedhSAD8G+t8kvetfWDbmTt49VIZEtJtTXmy2OJK0KH0XiPl9lbfYtZXU0yJ2DxVTytkeXAVR7sPcDechC7Pza5F4+7dfpWlnWfSyJ2yUV0ijsS1DsZL/etlXuP7l0H6TsTJlL00snAkqppo/ijsilwJrFkd3tkIAsKPDiBP4G1gLnMu2XQ+/G/3QJNRRCyCf0O9BRxnXvIunX",
+      "cityFrom": "Brno",
+      "aTime": 1504982100,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "brno",
+          "flight_no": 8404,
+          "original_return": 0,
+          "lngFrom": 16.608,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313516315",
+          "source": null,
+          "latFrom": 49.1952,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504970700,
+          "aTimeUTC": 1504978500,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BRQ",
+          "latTo": 51.5135984673,
+          "dTime": 1504977900,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Brno",
+          "aTime": 1504982100
+        }
+      ],
+      "distance": 1212.68
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1018,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=06-09-2017&flightsId=322331200&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnUH5moGM2VP3gSrCH9351/gQDmtCU1M562Fk9OAmiZZZo/w/Wqh9pnCMapM01ySnN3mNDcbtahLzz1IDZRbllYYnPCRLmftpsAsrQJCjnJ78UjfTTXFzCq/SDQ3Dy3A12go1Tj4jRslJP+KzfE2UMfQ56q/g3qkAdSE/c9cP/rQCIb91mMS1VfFtnOJqDwNN6A+fI4CK8xQHPXhJgHqhsBMnzP2wBAhGlLgmNQ57uc12MoIynNAAWt4jvpdegsdGPu3xcswRBJJOYYDTEBRHv+KhayKwH+Ygmxmu6Y5nAquUwlwvUqDmco1UdiOqU+alDWRh2hDFxoLPNJEw+b0ShLaWyDKqUm9Fzu2j1HW5O6kg",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "322331200",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504730100,
+      "p3": 1,
+      "price": 1018,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1504722900,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504730100,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnUH5moGM2VP3gSrCH9351/gQDmtCU1M562Fk9OAmiZZZo/w/Wqh9pnCMapM01ySnN3mNDcbtahLzz1IDZRbllYYnPCRLmftpsAsrQJCjnJ78UjfTTXFzCq/SDQ3Dy3A12go1Tj4jRslJP+KzfE2UMfQ56q/g3qkAdSE/c9cP/rQCIb91mMS1VfFtnOJqDwNN6A+fI4CK8xQHPXhJgHqhsBMnzP2wBAhGlLgmNQ57uc12MoIynNAAWt4jvpdegsdGPu3xcswRBJJOYYDTEBRHv+KhayKwH+Ygmxmu6Y5nAquUwlwvUqDmco1UdiOqU+alDWRh2hDFxoLPNJEw+b0ShLaWyDKqUm9Fzu2j1HW5O6kg",
+      "cityFrom": "Prague",
+      "aTime": 1504733700,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1375,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "322331200",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504722900,
+          "aTimeUTC": 1504730100,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1504730100,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1504733700
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1018,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=08-09-2017&flightsId=313525034&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnQySaAivDX78LYoyp8/Z8zGHhsrrVB7UrbYfLoNNgD72tamQepRgy5SZ6srGQP/fIIiLURr5JFo1i1bVn6Nq7vKvfNcOOgf4BpTmcNWVpJReYr2tVcBaXYCSNIpiiehPj5wQoYOrRxnnoE59ThG6t0pdfTXhK3e9FQa3Nn1pjSxZmczuv4ugmQbN3s6dp6une2dJd53hqzY06R9wqMUOaKZ6QKK5C5lDmgCAyUiM1F/HH+2XSrpTlSV5rF84foWsOc7t0gfQWdGW5BEq4ztHe+FmyzBx1aNSwVs0M8M8dJk3PqKPEpL0AxFL/83Soh4ZVcKC2umd5lsYymlMqXZxTkBzqZmL4OBeRH22YPyrNaB2",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313525034",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504852800,
+      "p3": 1,
+      "price": 1018,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1504845600,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504852800,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnQySaAivDX78LYoyp8/Z8zGHhsrrVB7UrbYfLoNNgD72tamQepRgy5SZ6srGQP/fIIiLURr5JFo1i1bVn6Nq7vKvfNcOOgf4BpTmcNWVpJReYr2tVcBaXYCSNIpiiehPj5wQoYOrRxnnoE59ThG6t0pdfTXhK3e9FQa3Nn1pjSxZmczuv4ugmQbN3s6dp6une2dJd53hqzY06R9wqMUOaKZ6QKK5C5lDmgCAyUiM1F/HH+2XSrpTlSV5rF84foWsOc7t0gfQWdGW5BEq4ztHe+FmyzBx1aNSwVs0M8M8dJk3PqKPEpL0AxFL/83Soh4ZVcKC2umd5lsYymlMqXZxTkBzqZmL4OBeRH22YPyrNaB2",
+      "cityFrom": "Prague",
+      "aTime": 1504856400,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313525034",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504845600,
+          "aTimeUTC": 1504852800,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1504852800,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1504856400
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1018,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=06-09-2017&flightsId=313525032&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnVbbeGyZJF2mC3JDYEKBa6nnd6m3ukqYEworFiBQmdyd3pkSUWhJkcCNj4WGsmZ/hmdk/h8GYqBdHATvP0Ew48HIGoGwc5XrsGfoqf897r8W0HaKJf+BTTmfCEYIjLGDCNBrgqmKyY+2in5WhsaP18RJb0ar43SCQU2QKQfUfmqjI25+HBHCGT9VJ1HbPwVwQgn/h9gFIqL3Aog1dO9A0Nw135gxxWBidrl+SEIot+5j5bzSj7i6D6s/SZMZ0K+OXDF++mBimDRlahgG3dGyPuJKgI8acLIZ3RIiFTkoq2rlDzDhZVad7tmQv811yqg5v7gr0lC+YFEJA9sCkmJsRxWl9LD67R0UobecTiTyI5Df",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313525032",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504680000,
+      "p3": 1,
+      "price": 1018,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1504672800,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504680000,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnVbbeGyZJF2mC3JDYEKBa6nnd6m3ukqYEworFiBQmdyd3pkSUWhJkcCNj4WGsmZ/hmdk/h8GYqBdHATvP0Ew48HIGoGwc5XrsGfoqf897r8W0HaKJf+BTTmfCEYIjLGDCNBrgqmKyY+2in5WhsaP18RJb0ar43SCQU2QKQfUfmqjI25+HBHCGT9VJ1HbPwVwQgn/h9gFIqL3Aog1dO9A0Nw135gxxWBidrl+SEIot+5j5bzSj7i6D6s/SZMZ0K+OXDF++mBimDRlahgG3dGyPuJKgI8acLIZ3RIiFTkoq2rlDzDhZVad7tmQv811yqg5v7gr0lC+YFEJA9sCkmJsRxWl9LD67R0UobecTiTyI5Df",
+      "cityFrom": "Prague",
+      "aTime": 1504683600,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313525032",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504672800,
+          "aTimeUTC": 1504680000,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1504680000,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1504683600
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1018,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=16-08-2017&flightsId=313461317&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnXK/mDLagpKxh5/MhEEFGg2mJiVSZAzaryoC1Tzos/vPw0p7QxXOGVVwHl3AVCShvQDdql+JPg+9dTBsXaSf7NXnnZkBeLfr8J8yeIssSW6QM/s1pmzQbwQSp8WP+L6xTmBwcDaM9GU7YuSPFXVDax4+MpqtnHzbZoIcpwgitTcgxKGlvUQsp8RAuogEAUvuJGwRjaw15SsjcSPBRfSZaoOwyzFeUPMJb+MCmt5V4xmaz2ZC0eMJHKldSsa1IMQxhDCG6bWRUy0yifIOc2VGdRdHo0XfY0W12XsA63AW9wyf7ULxoHF+I1GxALMgUkTTcOA75kCltdaSfAgV4pqGj+Lh+Vrg2MaVRLpfjosTRqoI",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313461317",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1502865600,
+      "p3": 1,
+      "price": 1018,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1502858400,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1502865600,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnXK/mDLagpKxh5/MhEEFGg2mJiVSZAzaryoC1Tzos/vPw0p7QxXOGVVwHl3AVCShvQDdql+JPg+9dTBsXaSf7NXnnZkBeLfr8J8yeIssSW6QM/s1pmzQbwQSp8WP+L6xTmBwcDaM9GU7YuSPFXVDax4+MpqtnHzbZoIcpwgitTcgxKGlvUQsp8RAuogEAUvuJGwRjaw15SsjcSPBRfSZaoOwyzFeUPMJb+MCmt5V4xmaz2ZC0eMJHKldSsa1IMQxhDCG6bWRUy0yifIOc2VGdRdHo0XfY0W12XsA63AW9wyf7ULxoHF+I1GxALMgUkTTcOA75kCltdaSfAgV4pqGj+Lh+Vrg2MaVRLpfjosTRqoI",
+      "cityFrom": "Prague",
+      "aTime": 1502869200,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313461317",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1502858400,
+          "aTimeUTC": 1502865600,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1502865600,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1502869200
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1018,
+        "EUR": 38
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=12-08-2017&flightsId=313422491&price=38&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnX22Gq2OucCEbMr2sRuBu9vgV2PNaDApiDj12QPUDUJQWf2JDXt+nSzknML5Q7X4I/vnSgfOwChaQJdw/lu94LrtDbMkcF8JNZmfbWLtaFb5AlI2eKqb7+aWXp0CRYrqGdFUnW0ZkH73JYdwYyZ04s5gRwmkTqfB1zj/mfzH7t3KdZqT8fLJphQDyvwv/F/sil8hp6aXEbgL9Ehu6rPutFdnAkoX9U5IkZZPMQuJlDpMU9wzlTWYKczu8WHoBbV7EF3P3TJQJVeo4z3eAgSgMN9KylJZlI9xCurpDRQ8APAzclduMeWG2DrjC0Hu0uFqF9PpChx8rujmb3DPvwiLrc27Ov8mw3MGTHKVnFSbPEEg",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313422491",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1502520000,
+      "p3": 1,
+      "price": 1018,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1502512800,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1502520000,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnX22Gq2OucCEbMr2sRuBu9vgV2PNaDApiDj12QPUDUJQWf2JDXt+nSzknML5Q7X4I/vnSgfOwChaQJdw/lu94LrtDbMkcF8JNZmfbWLtaFb5AlI2eKqb7+aWXp0CRYrqGdFUnW0ZkH73JYdwYyZ04s5gRwmkTqfB1zj/mfzH7t3KdZqT8fLJphQDyvwv/F/sil8hp6aXEbgL9Ehu6rPutFdnAkoX9U5IkZZPMQuJlDpMU9wzlTWYKczu8WHoBbV7EF3P3TJQJVeo4z3eAgSgMN9KylJZlI9xCurpDRQ8APAzclduMeWG2DrjC0Hu0uFqF9PpChx8rujmb3DPvwiLrc27Ov8mw3MGTHKVnFSbPEEg",
+      "cityFrom": "Prague",
+      "aTime": 1502523600,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313422491",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1502512800,
+          "aTimeUTC": 1502520000,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1502520000,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1502523600
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1054,
+        "EUR": 40
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=04-08-2017&flightsId=313405028&price=40&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnRR5revQ8qLxqFBmEMBnzbVm+l/8I+IYdnfxVXQyaY8H9HdEKrHJItgkTDMdl1hZdDh5M4iKArwOpFFqt+x45FtJFV3kFO3gQw5LkZ18QHDSAOLCI1HxrwdDBOfeaWgu6tz3oXuvRvttjTnr7lWA+fykgZFuzEIyZ8XqvG+GrwsXIEwyg0R9D8o0DPUBHiyJv2+sg6MqfnQOHoM2oNcg8PrOCIoCdd/JTOxbUu3qdVoY1oJGEenIye+aKvIFY451azx9m8+ZZg5eDheDAhYmEuSp5TTKTOfA/i9IXy5OvIEoUX2g+lLpUUJ0/VeMdPMKC1lLwZEhIbr+jNtmDL1TWlgDdvkpPFPCvJDMVCV40+Zx",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313405028",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1501828800,
+      "p3": 1,
+      "price": 1054,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1501821600,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1501828800,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnRR5revQ8qLxqFBmEMBnzbVm+l/8I+IYdnfxVXQyaY8H9HdEKrHJItgkTDMdl1hZdDh5M4iKArwOpFFqt+x45FtJFV3kFO3gQw5LkZ18QHDSAOLCI1HxrwdDBOfeaWgu6tz3oXuvRvttjTnr7lWA+fykgZFuzEIyZ8XqvG+GrwsXIEwyg0R9D8o0DPUBHiyJv2+sg6MqfnQOHoM2oNcg8PrOCIoCdd/JTOxbUu3qdVoY1oJGEenIye+aKvIFY451azx9m8+ZZg5eDheDAhYmEuSp5TTKTOfA/i9IXy5OvIEoUX2g+lLpUUJ0/VeMdPMKC1lLwZEhIbr+jNtmDL1TWlgDdvkpPFPCvJDMVCV40+Zx",
+      "cityFrom": "Prague",
+      "aTime": 1501832400,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313405028",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1501821600,
+          "aTimeUTC": 1501828800,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1501828800,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1501832400
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1061,
+        "EUR": 40
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=STN&departure=22-08-2017&flightsId=313481084&price=40&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnTYDf3BPrVyEIvN+sH/rcsdVYhG6Qumakf492GK+7RG1o00F4b53cQjgJWRmIZFcMp5a5I3sFBBPr+oBOBiqS4K35uK8klLG/N2A0N06KJD2qrmJMRH3mnQ/QVea6/oZwBsuxfeSuPf8k2V8+NntVUW2O9EQoquaY5boRBByX+/OICb0QRZjipmXjVXwKBp+yj8WbcLST2I0KYror1fX+OazKZQjGSEDdu/ZYEJ3al/pxB1eY3KtHW/iXOEB076+m9Dt4XIhg8OyBSnOEL/vQQqqWpTkCMCrqfO2RlBWQIulw17I6DmRuOFShdYABGev6lnMVnhkV0EGXD7Ud1GuBy37+pwuKF/GhVJ2Q6TEBzzC",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR"
+      ],
+      "id": "313481084",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1503384000,
+      "p3": 1,
+      "price": 1061,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 25,
+        "2": 55
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1503376800,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1503384000,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1rD0v8AHr7HTCiNRfOEDpd5e4BCIuZy5Eu/k4toZzSnTYDf3BPrVyEIvN+sH/rcsdVYhG6Qumakf492GK+7RG1o00F4b53cQjgJWRmIZFcMp5a5I3sFBBPr+oBOBiqS4K35uK8klLG/N2A0N06KJD2qrmJMRH3mnQ/QVea6/oZwBsuxfeSuPf8k2V8+NntVUW2O9EQoquaY5boRBByX+/OICb0QRZjipmXjVXwKBp+yj8WbcLST2I0KYror1fX+OazKZQjGSEDdu/ZYEJ3al/pxB1eY3KtHW/iXOEB076+m9Dt4XIhg8OyBSnOEL/vQQqqWpTkCMCrqfO2RlBWQIulw17I6DmRuOFShdYABGev6lnMVnhkV0EGXD7Ud1GuBy37+pwuKF/GhVJ2Q6TEBzzC",
+      "cityFrom": "Prague",
+      "aTime": 1503387600,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 1014,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313481084",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1503376800,
+          "aTimeUTC": 1503384000,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1503384000,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Prague",
+          "aTime": 1503387600
+        }
+      ],
+      "distance": 1033.23
+    },
+    {
+      "mapIdfrom": "ostrava",
+      "refr": false,
+      "duration": {
+        "total": 94200,
+        "return": 0,
+        "departure": 94200
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1085,
+        "EUR": 41
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=OSR&to=STN&departure=07-09-2017&flightsId=313524617%7C313514717&price=41&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew3gFObyU7m6PFwZSryCb5Cbw4j3C2QjOmftqGzzAEDzDSFHXKE+/xEeL5ekB9d4oB7J4ztRPq2zIrP4EH90CRgyacaWiN8xlW+d02JcmWGRSwaTlh+40Vmt6zaNxEjlqxu8pHH9gUezBcvylUc576tGO30IMFyA+XAA7tzLljLVA7UMHVWjWkK7xAqs4czfOXmI3DwV2Dz7a5bDTWcqLxUTzX9WzJGUF5+tA/SVVkZde1GEVb4zr33RITuvC0d8A0wcTcsdk25g53WV86gAVplPAGIOd2+I0ToMN9wmwRSQc/Q+ajMU8x0euB0CJsIif5MYRvgwqrsb8+doWVn+WrKJvyaPoeEpA6zqvr+MwodDn1zZQfyw2LKsLXZbz+jfdp5c0/tFpi5s36aCRzD9BDng7tjwjHdYXMy7DQbshj3w1xBiRHZX7QmUQlYz2kFhie0=",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR",
+        "FR"
+      ],
+      "id": "313524617|313514717",
+      "pnr_count": 2,
+      "fly_duration": "26h 10m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504881300,
+      "p3": 1,
+      "price": 1085,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 50,
+        "2": 110
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "OSR",
+      "dTimeUTC": 1504787100,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504794300,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew3gFObyU7m6PFwZSryCb5Cbw4j3C2QjOmftqGzzAEDzDSFHXKE+/xEeL5ekB9d4oB7J4ztRPq2zIrP4EH90CRgyacaWiN8xlW+d02JcmWGRSwaTlh+40Vmt6zaNxEjlqxu8pHH9gUezBcvylUc576tGO30IMFyA+XAA7tzLljLVA7UMHVWjWkK7xAqs4czfOXmI3DwV2Dz7a5bDTWcqLxUTzX9WzJGUF5+tA/SVVkZde1GEVb4zr33RITuvC0d8A0wcTcsdk25g53WV86gAVplPAGIOd2+I0ToMN9wmwRSQc/Q+ajMU8x0euB0CJsIif5MYRvgwqrsb8+doWVn+WrKJvyaPoeEpA6zqvr+MwodDn1zZQfyw2LKsLXZbz+jfdp5c0/tFpi5s36aCRzD9BDng7tjwjHdYXMy7DQbshj3w1xBiRHZX7QmUQlYz2kFhie0=",
+      "cityFrom": "Ostrava",
+      "aTime": 1504884900,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "ostrava",
+          "flight_no": 4676,
+          "original_return": 0,
+          "lngFrom": 18.282,
+          "flyTo": "BGY",
+          "mapIdto": "milan",
+          "id": "313524617",
+          "source": null,
+          "latFrom": 49.8346,
+          "lngTo": 9.1884541512,
+          "dTimeUTC": 1504787100,
+          "aTimeUTC": 1504792800,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Milan",
+          "flyFrom": "OSR",
+          "latTo": 45.4632981834,
+          "dTime": 1504794300,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Ostrava",
+          "aTime": 1504800000
+        },
+        {
+          "bags_recheck_required": true,
+          "mapIdfrom": "milan",
+          "flight_no": 4195,
+          "original_return": 0,
+          "lngFrom": 9.1884541512,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313514717",
+          "source": null,
+          "latFrom": 45.4632981834,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504873500,
+          "aTimeUTC": 1504881300,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BGY",
+          "latTo": 51.5135984673,
+          "dTime": 1504880700,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Milan",
+          "aTime": 1504884900
+        }
+      ],
+      "distance": 1307.74
+    },
+    {
+      "mapIdfrom": "ostrava",
+      "refr": false,
+      "duration": {
+        "total": 22500,
+        "return": 0,
+        "departure": 22500
+      },
+      "flyTo": "STN",
+      "conversion": {
+        "CZK": 1085,
+        "EUR": 41
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=OSR&to=STN&departure=07-09-2017&flightsId=313524617%7C313514710&price=41&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew3gFObyU7m6PFwZSryCb5Cbw4j3C2QjOmftqGzzAEDzDZW8olydgyJkOPwv64E2TjCLpJK9G7Y4dPVSZeCLTFID5ow+ob09zjw+6rkExOFDZvpJGl1OVOneoc4nTBvBOm07XwL9bRG1Klysgkozxm+9llzLLg5qWS33Pv7Onqfh6bS6homQ2kH5uzqm0IyASuhizvvsr9XHTCJOuA1JkofF/aubgkf7IP7Bzyxb1+KoOGIGZnIF2jp1EG1jgeW8axg4jgDWVh/cmYa01PFe7g+Y5ViohdKR4ylc9rd0L1+bofr3wCmASi+3m81uXlvHNQoZqGcJpQAWci3ntEZHcK/DLDagQc8GMUy0hnidfDakn7TVOFVtc6oW+4C01bliyCW0YPez/57cFsZ5CkPep4kVsqiTbtWJKsKgFe9boX6ExInIFOzchgugm5aQbeAUymc=",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "FR",
+        "FR"
+      ],
+      "id": "313524617|313514710",
+      "pnr_count": 2,
+      "fly_duration": "6h 15m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 15,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1504809600,
+      "p3": 1,
+      "price": 1085,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 50,
+        "2": 110
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "OSR",
+      "dTimeUTC": 1504787100,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1504794300,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew3gFObyU7m6PFwZSryCb5Cbw4j3C2QjOmftqGzzAEDzDZW8olydgyJkOPwv64E2TjCLpJK9G7Y4dPVSZeCLTFID5ow+ob09zjw+6rkExOFDZvpJGl1OVOneoc4nTBvBOm07XwL9bRG1Klysgkozxm+9llzLLg5qWS33Pv7Onqfh6bS6homQ2kH5uzqm0IyASuhizvvsr9XHTCJOuA1JkofF/aubgkf7IP7Bzyxb1+KoOGIGZnIF2jp1EG1jgeW8axg4jgDWVh/cmYa01PFe7g+Y5ViohdKR4ylc9rd0L1+bofr3wCmASi+3m81uXlvHNQoZqGcJpQAWci3ntEZHcK/DLDagQc8GMUy0hnidfDakn7TVOFVtc6oW+4C01bliyCW0YPez/57cFsZ5CkPep4kVsqiTbtWJKsKgFe9boX6ExInIFOzchgugm5aQbeAUymc=",
+      "cityFrom": "Ostrava",
+      "aTime": 1504813200,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "ostrava",
+          "flight_no": 4676,
+          "original_return": 0,
+          "lngFrom": 18.282,
+          "flyTo": "BGY",
+          "mapIdto": "milan",
+          "id": "313524617",
+          "source": null,
+          "latFrom": 49.8346,
+          "lngTo": 9.1884541512,
+          "dTimeUTC": 1504787100,
+          "aTimeUTC": 1504792800,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Milan",
+          "flyFrom": "OSR",
+          "latTo": 45.4632981834,
+          "dTime": 1504794300,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Ostrava",
+          "aTime": 1504800000
+        },
+        {
+          "bags_recheck_required": true,
+          "mapIdfrom": "milan",
+          "flight_no": 4197,
+          "original_return": 0,
+          "lngFrom": 9.1884541512,
+          "flyTo": "STN",
+          "mapIdto": "london",
+          "id": "313514710",
+          "source": null,
+          "latFrom": 45.4632981834,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1504801800,
+          "aTimeUTC": 1504809600,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "BGY",
+          "latTo": 51.5135984673,
+          "dTime": 1504809000,
+          "found_on": null,
+          "airline": "FR",
+          "cityFrom": "Milan",
+          "aTime": 1504813200
+        }
+      ],
+      "distance": 1307.74
+    },
+    {
+      "mapIdfrom": "prague",
+      "refr": false,
+      "duration": {
+        "total": 7200,
+        "return": 0,
+        "departure": 7200
+      },
+      "flyTo": "LTN",
+      "conversion": {
+        "CZK": 1235,
+        "EUR": 46
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=PRG&to=LTN&departure=11-08-2017&flightsId=315052197&price=46&passengers=1&affilid=picky&lang=en&currency=CZK&booking_token=GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzW2kSgOakg+y51KGgrhQe6b6pdy2mmIEr0xT0q2CZ5EOcGHK43yhCHITOKljvPXNj54cJIM2T/bDCfUwXIkC3yj8ACmIX6BZoeGOlKCu+NqG0GcE5JmT5k9cBHUcJ/EOIJsdUhvcvbd7+EwIwpzBqhnG619KdWYcpVlHrBVqgFDI7siRj6UmiqM5yuVOgdcWzWvpfpF6oFXy6TmfBc4YLBQf+tn0gmZoP8iQi3xT/5tNgwChMCV8yTusualkfY0+Ghm57xbq2u+EVy84w0IxjssZu/5u9G2T2WeUrzv9zOKQvoDVxRQ99opRRVOi8qSMtBezxZj/VuFot/BO0mTMVS1kSzr0Fmv5m/zSVsIs4xftGxz9F3hjLF1gDHGj5Ivde",
+      "mapIdto": "london",
+      "nightsInDest": null,
+      "airlines": [
+        "W6"
+      ],
+      "id": "315052197",
+      "pnr_count": 1,
+      "fly_duration": "2h 0m",
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "baglimit": {
+        "hand_width": 32,
+        "hand_length": 42,
+        "hold_weight": 23,
+        "hand_height": 25,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1502479200,
+      "p3": 1,
+      "price": 1235,
+      "type_flights": [
+        "lcc"
+      ],
+      "bags_price": {
+        "1": 27,
+        "2": 54
+      },
+      "cityTo": "London",
+      "transfers": [],
+      "flyFrom": "PRG",
+      "dTimeUTC": 1502472000,
+      "p2": 1,
+      "countryFrom": {
+        "code": "CZ",
+        "name": "Czech Republic"
+      },
+      "hidden_flights": [],
+      "p1": 1,
+      "dTime": 1502479200,
+      "booking_token": "GamFTRHoBQ/v6QB8Irykhs320XfjZPfZzlYyhc7jew1a69GAWqezecCYt+cWhnpzW2kSgOakg+y51KGgrhQe6b6pdy2mmIEr0xT0q2CZ5EOcGHK43yhCHITOKljvPXNj54cJIM2T/bDCfUwXIkC3yj8ACmIX6BZoeGOlKCu+NqG0GcE5JmT5k9cBHUcJ/EOIJsdUhvcvbd7+EwIwpzBqhnG619KdWYcpVlHrBVqgFDI7siRj6UmiqM5yuVOgdcWzWvpfpF6oFXy6TmfBc4YLBQf+tn0gmZoP8iQi3xT/5tNgwChMCV8yTusualkfY0+Ghm57xbq2u+EVy84w0IxjssZu/5u9G2T2WeUrzv9zOKQvoDVxRQ99opRRVOi8qSMtBezxZj/VuFot/BO0mTMVS1kSzr0Fmv5m/zSVsIs4xftGxz9F3hjLF1gDHGj5Ivde",
+      "cityFrom": "Prague",
+      "aTime": 1502482800,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "prague",
+          "flight_no": 2601,
+          "original_return": 0,
+          "lngFrom": 14.4208,
+          "flyTo": "LTN",
+          "mapIdto": "london",
+          "id": "315052197",
+          "source": null,
+          "latFrom": 50.088,
+          "lngTo": -0.1164722443,
+          "dTimeUTC": 1502472000,
+          "aTimeUTC": 1502479200,
+          "return": 0,
+          "price": 1,
+          "cityTo": "London",
+          "flyFrom": "PRG",
+          "latTo": 51.5135984673,
+          "dTime": 1502479200,
+          "found_on": null,
+          "airline": "W6",
+          "cityFrom": "Prague",
+          "aTime": 1502482800
+        }
+      ],
+      "distance": 1033.23
+    }
+  ],
+  "ref_tasks": {},
+  "refresh": [],
+  "del": null,
+  "all_airlines": [
+    "FR",
+    "OK",
+    "4U",
+    "HV",
+    "U2",
+    "W6",
+    "D8",
+    "EW"
+  ],
+  "time": 1
+}
