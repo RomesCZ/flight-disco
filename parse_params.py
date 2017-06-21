@@ -1,10 +1,10 @@
 import argparse
 import my_date
 import logging
-logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', 
-  filename='__DEBUG.log',level=logging.DEBUG)
+logger = logging.getLogger() #main logger
 
 def getP():
+  logger.info("getP()")
   defDateFrom = my_date.strActualDate()
   defDateTo = my_date.strPlusDate(1)
 
@@ -30,10 +30,11 @@ def getP():
   print("Date From:   {0}".format(args.datefrom))
   print("Date To:     {0}".format(args.dateto))
   print("File:        {0}".format(args.file))
-  logging.debug('getP:return value {0}'.format(args))
+  logger.debug('getP:return value {0}'.format(args))
   return args
 
 def createUrl(args):
+  logger.info("createUrl(args)")
   baseUrl = 'https://api.skypicker.com/flights?'
   fullUrl = baseUrl
   fullUrl += "flyFrom={0}".format(args.flyfrom)
@@ -57,5 +58,5 @@ def createUrl(args):
     fullUrl += "&daysInDestinationTo={0}".format(args.daysindestinationto)
   fullUrl += "&partner=picky&partner_market=cz"
   
-  logging.debug("URL: {0}".format(fullUrl))
+  logger.debug("URL: {0}".format(fullUrl))
   return fullUrl

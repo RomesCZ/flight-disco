@@ -2,9 +2,11 @@ import parse_params
 import excel_file
 import json_data
 import logging
+
+#logging config
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', 
-  filename='__DEBUG.log',level=logging.DEBUG)
-logging.debug('************************************************')
+  filename='__MAIN.log',level=logging.DEBUG)
+logger = logging.getLogger() #main logger
 
 print("--------")
 #params load
