@@ -11,7 +11,10 @@ print("--------")
 p = parse_params.getP()
 url = parse_params.createUrl(p)
 print(url)
-json_datad = json_data.getJSONData(url)
+if p.demo:
+  json_datad = json_data.getJSONDataSample()
+else:
+  json_datad = json_data.getJSONData(url)
 print("--------")
 #create/load excel file
 wb = excel_file.getExcelFile(p.file)

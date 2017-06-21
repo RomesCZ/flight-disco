@@ -16,11 +16,13 @@ def getP():
   parser.add_argument("--datefrom", help="From dd/mm/yyyy", default=defDateFrom)
   parser.add_argument("--dateto", help="To dd/mm/yyyy", default=defDateTo)
   parser.add_argument("--file", help="Excel file name", default="export.xlsx")
-  parser.add_argument("--typeflight", help="Possible values: oneway, return, round", default="oneway")
+  parser.add_argument("--typeflight", help="Possible values: oneway, return, round")
   parser.add_argument("--daysindestinationfrom", help="TODO")
   parser.add_argument("--daysindestinationto", help="TODO")
   parser.add_argument("--limit", help="TODO", default="300")
   parser.add_argument("--currency", help="TODO", default="CZK")
+  parser.add_argument("--directflights", help="TODO", default=0)
+  parser.add_argument("--demo", help="TODO", action="store_true")
 
   args = parser.parse_args()
   print("Fly From:    {0}".format(args.flyfrom))
@@ -34,13 +36,26 @@ def getP():
 def createUrl(args):
   baseUrl = 'https://api.skypicker.com/flights?'
   fullUrl = baseUrl
-  fullUrl += "flyFrom={}".format(args.flyfrom)
-  fullUrl += "&to={}".format(args.flyto)
-  fullUrl += "&dateFrom={}".format(args.datefrom)
-  fullUrl += "&dateTo={}".format(args.dateto)
-  fullUrl += "&curr={}".format(args.currency)
-  fullUrl += "&limit={}".format(args.limit)
-  fullUrl += "&typeFlight={}".format(args.typeflight)
-  fullUrl += "&partner=picky&partner_market=us"
+  fullUrl += "flyFrom={0}".format(args.flyfrom)
+  fullUrl += "&to={0}".format(args.flyto)
+  fullUrl += "&dateFrom={0}".format(args.datefrom)
+  fullUrl += "&dateTo={0}".format(args.dateto)  
+  fullUrl += "&curr={0}".format(args.currency)
+  fullUrl += "&limit={0}".format(args.limit)
+  fullUrl += "&directFlights={0}".format(args.directflights)
+  if args.typeflight is None:
+    fullUrl += "&typeFlight="
+  else:
+    fullUrl += "&typeFlight={0}".format(args.typeflight)
+  if args.daysindestinationfrom is None:
+    fullUrl += "&daysInDestinationFrom="
+  else:
+    fullUrl += "&daysInDestinationFrom={0}".format(args.daysindestinationfrom)
+  if args.daysindestinationto is None:
+    fullUrl += "&daysInDestinationTo="
+  else:
+    fullUrl += "&daysInDestinationTo={0}".format(args.daysindestinationto)
+  fullUrl += "&partner=picky&partner_market=cz"
   
+  logging.debug("URL: {0}".format(fullUrl))
   return fullUrl
